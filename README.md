@@ -6,13 +6,13 @@ Este é um projeto de aplicação de console completo, desenvolvido em Python, q
 
 ## ✨ Funcionalidades
 
--   [7] **Autenticação Segura:** Sistema de Login com senhas criptografadas usando hashing com `bcrypt`.
--   [5] **CRUD Completo:** Crie, Liste, Atualize e Delete usuários no banco de dados.
--   [6] **Busca Inteligente:** Filtre usuários por nome ou parte do nome.
+-   [1] **Autenticação Segura:** Sistema de Login com senhas criptografadas usando hashing com `bcrypt`.
+-   [2] **CRUD Completo:** Crie, Liste, Atualize e Delete usuários no banco de dados.
+-   [3] **Busca Inteligente:** Filtre usuários por nome ou parte do nome.
 -   [4] **Interface Rica:** Interface de linha de comando (CLI) bonita e intuitiva, construída com a biblioteca `rich`.
--   [3] **Validação de Dados:** Validação de formato de email com Expressões Regulares (Regex) e tratamento de erros de entrada do usuário.
--   [2] **Exportação de Dados:** Exporte a lista completa de usuários para um arquivo `.csv` padrão.
--   [1] **Ambiente Virtual:** Projeto configurado com um ambiente virtual (`.venv`) para gerenciar dependências de forma isolada.
+-   [5] **Validação de Dados:** Validação de formato de email com Expressões Regulares (Regex) e tratamento de erros de entrada do usuário.
+-   [6] **Exportação de Dados:** Exporte a lista completa de usuários para um arquivo `.csv` padrão.
+-   [7] **Ambiente Virtual:** Projeto configurado com um ambiente virtual (`.venv`) para gerenciar dependências de forma isolada.
 
 ---
 
@@ -31,7 +31,7 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_NO_GITHUB]
+    git clone https://github.com/monteiro159/sistema-cadastro-python.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
